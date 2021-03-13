@@ -8,3 +8,4 @@ What i learned?
 3. Use the StoreKit API to detect failure cases
 4. Use the StoreKit API to restore in-app purchases
 5. How to persist the state of users' purchases
+6. Using Apple Sandbox
